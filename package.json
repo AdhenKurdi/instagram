@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AdhenKurdi/instagram-scrap.git"
+        "url": "git+https://github.com/AdhenKurdi/instagram.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/AdhenKurdi/instagram-scrap/issues"
+        "url": "https://github.com/AdhenKurdi/instagram/issues"
     },
-    "homepage": "https://github.com/AdhenKurdi/instagram-scrap#readme"
+    "homepage": "https://github.com/AdhenKurdi/instagram#readme"
 }
